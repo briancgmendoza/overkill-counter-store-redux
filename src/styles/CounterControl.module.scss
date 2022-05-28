@@ -1,25 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  outline: none;
-  border: none;
-  text-decoration: none;
-  font-family: "Poppins", sans-serif;
-}
-
-body {
-  background-color: #040c18;
-  text-align: center;
-}
-
-ul {
-  color: #fff;
-}
-
-button {
+.counterControl {
   width: 150px;
   padding: 20px;
   margin: 16px;
